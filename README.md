@@ -75,7 +75,7 @@ They do not agree because the multimeter measures voltage in RMS so the values a
 When you change either the frequency or amplitude the o-scope and Fluke DMM change according to the new values that you have altered to on the function generator. The instruments will react accordingly to the changes you apply to the function generator.
 
 
-
+***Note: All code above this line was written by Eli Barrow***
 
 
 
