@@ -8,15 +8,70 @@ The project goal of this lab was to become comfortable with the lab equipment th
 
 
 ## Lab Assignment Specific Items
-*Question 1:*    
+***Question 1:***   
 
-****Resistor Measurements****
+*Resistor Measurements*
 | Color Code | Expected Resistnace k&Omega; | MAX | MIN | Measured | Range |
 |:---|:---:|:---:|:---:|:---:|---:|
 |   Red-Black-Red-Gold     | 2   |2.1 | 1.9 | 1.966 | In Range |
 | Brown-Red-Yellow-Gold    | 120 |126 | 114 | 120.20| In Range |
 | Brown-Black-Ornage-Gold  | 10  |10.5| 9.5 | 9.9   | In Range |
 | Orange-Orange-Green-Gold |3300 |3465 |3135 | 3500 | Out of Range |
+
+*a.) If you subtract this value to the previously measured, do the reistors fall within their tolerance?*   
+If we consider the expected, minimum and maximum values for these resistors we can see that all of them are in the expected range except for the 3300 k&Omega; resistor.  
+      
+
+
+***Question 2:***   
+
+*Capacitor Measurements*
+| Color| Type | Expected Capacitance pF; | MAX | MIN | Measured pF| Range |
+|:---|:---:|:---:|:---:|:---:|:---:|---:|
+|   blue   | ceramic      |10000      | 10000.25 | 9999.75 | 10200         | In Range |
+| yellow   | ceramic      |1000       | 1100     | 900     | 1300          | In Range |
+| black    | electrolytic | 100000000 | ---      | ---     | 97900000      | In Range |
+| blue     | electrolytic | 100000000 |---       | ---     | 106000000     | Out of Range |
+
+*a.) Do the instruments agree with the expected value?*  
+Yes they agree with the values for the most part, the values are a little off but that is becuase the values are so small and our Fluke DMM may not be able to accuratley measure at that precision.
+
+*b.) Does the polarity affect the measurement of the electrolytic capacitor?*    
+Yes, it does affect the measurements of the electrolytic capacitors but not enough to really alter our values.
+
+
+***Question 3:***   
+
+*Measurements of Power Supply*
+| Expected Voltage (V) |  Actual Voltage (V)| 
+|:---|:---:|
+|1.50    |1.478 |
+|7       | 6.95 |
+|12      | 11.94 |
+|3.3     | 3.396 |
+|5       | 5.171 |
+|12      | 12.01 |
+
+*Discussion Question 1: Do the instruments agree with each other? Why?*  
+Yes, they agree with one another but there is obviously a little bit of error/resistance in the wires that we are using the measure the values with.
+
+***Question 4***   
+
+   
+*Working with the O-scope*
+
+|  |  Frequency (kHz)|  Voltage (V)|
+|:---|:---:|:---:|
+|1   |1.913 |8.25|
+|2     | 1.826 |9.28|
+|3     | 1.738 |9.12|
+|4     | 1.73 |6.2|
+
+
+
+
+
+
 
 
 
