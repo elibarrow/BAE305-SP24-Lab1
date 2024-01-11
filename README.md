@@ -55,7 +55,7 @@ Yes, it does affect the measurements of the electrolytic capacitors but not enou
 *Discussion Question 1: Do the instruments agree with each other? Why?*  
 Yes, they agree with one another but there is obviously a little bit of error/resistance in the wires that we are using the measure the values with.
 
-***Question 4***   
+***Question 4:***   
 
    
 *Working with the O-scope*
@@ -67,8 +67,12 @@ Yes, they agree with one another but there is obviously a little bit of error/re
 |3     | 1.738 |9.12|
 |4     | 1.73 |6.2|
 
+*a.) Discussion Question 2: Do the instruments agree? Why?*   
+They do not agree because the multimeter measures voltage in RMS so the values are off a bit, but for the frequency it is very close to the measured values.
 
+*Change the frequency and amplitude of the generated sinusoidal and observe what happens in the o-scope and Fluke DMM. What happens?*   
 
+When you change either the frequency or amplitude the o-scope and Fluke DMM change according to the new values that you have altered to on the function generator. The instruments will react accordingly to the changes you apply to the function generator.
 
 
 
