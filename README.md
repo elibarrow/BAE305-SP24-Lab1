@@ -6,7 +6,6 @@ Jan. 10, 2024
 ## Summary of Lab
 The project goal of this lab was to become comfortable with the lab equipment that we will be using all semester, we experimented with a power supply, oscilloscope, a function generator, and a Fluke DMM. We began the lab by determining the expected, maximum, and minimum values of resistors using the Fluke DMM. We then did the same type of experimenting with Capacitors to find the expected, maximum, and minimum capacitance of each capacitor we were given. Next, we began to work with the o-scope, function generator, and power supply to run various tests. By the end of the lab, I am certain that Isaac and I are more comfortable using the lab equipment now than before beginning the lab.
 
--**Eli Barrow**
 
 
 ## Lab Schematics and Procedure
@@ -30,7 +29,7 @@ The oscilloscope was wired to a function generator with a 10KΩ resistor and use
 For Lab 1, no code is required to set up and complete the lab.
 
 
--**Isaac Stevens**
+
 
 ## Lab Assignment Specific Items
 ***Question 1:***   
@@ -51,15 +50,15 @@ Considering the expected, minimum, and maximum values for these resistors we can
 ***Question 2:***   
 
 *Capacitor Measurements*
-| Color| Type | Expected Capacitance pF; | MAX | MIN | Measured pF| Range |
+| Color| Type | Expected Capacitance; | MAX pF | MIN pF | Measured | Range |
 |:---|:---:|:---:|:---:|:---:|:---:|---:|
-|   blue   | ceramic      |10000      | 10000.25 | 9999.75 | 10200         | In Range |
-| yellow   | ceramic      |1000       | 1100     | 900     | 1300          | In Range |
-| black    | electrolytic | 100000000 | ---      | ---     | 97900000      | In Range |
-| blue     | electrolytic | 100000000 |---       | ---     | 106000000     | Out of Range |
+|   blue   | ceramic      |1 nF    | 10000.25 | 9999.75 | 10.20 nF         | In Range |
+| yellow   | ceramic      |1 nF      | 1100     | 900     | 1.30 nF         | In Range |
+| black    | electrolytic | 100 &mu;F | ---      | ---     | 97.9 &mu;F     | In Range |
+| blue     | electrolytic | 100 &mu;F |---       | ---     | 106.0 &mu;F     | Out of Range |
 
 *a.) Do the instruments agree with the expected value?*  
-Yes, they agree with the values for the most part, the values are a little off but that is because the values are so small and our Fluke DMM may not be able to accurately measure at that precision.
+Yes, they agree with the values for the most part, the values are a little off but that is because the values are so small, and our Fluke DMM may not be able to accurately measure at that precision.
 
 *b.) Does the polarity affect the measurement of the electrolytic capacitor?*    
 Yes, it does affect the measurements of the electrolytic capacitors but not enough to alter our values.
@@ -100,10 +99,9 @@ They do not agree because the multimeter measures the voltage in RMS so the valu
 When you change either the frequency or amplitude the o-scope and Fluke DMM change according to the new values that you have altered to on the function generator. The instruments will react accordingly to the changes you apply to the function generator.
 
 
--**Eli Barrow**
+
 
 ## Outcome and Results of Lab
-The goal of the lab was to properly test measurement devices commonly used in circuit labs and understand readings from these devices should not be trusted blindly. Common sense must be applied when measuring voltage, resistance, capacitance, amplitude, and frequency, and failure to do so can lead to incorrect data and conclusions when experimenting. 
+The goal of the lab was to properly test measurement devices commonly used in circuit labs and understand readings from these devices should not be trusted blindly. Common sense must be applied when measuring voltage, resistance, capacitance, amplitude, and frequency, and failure to do so can lead to incorrect data and conclusions when experimenting. When reflecting on what we learned in this lab, I think that we learned the importance of detail that it takes when taking measurements of electrical devices and what you are able to accomplish/learn with the data that is found.
 
 
--**Isaac Stevens**
