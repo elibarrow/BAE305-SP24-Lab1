@@ -1,6 +1,6 @@
 # Lab Report 1: Knowing Your Instruments 
 Eli Barrow & Isaac Stevens      
-Jan. 10, 2024
+Jan. 18, 2024
 
 
 ## Summary of Lab
